@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'django_prometheus.middleware.PrometheusAfterMiddleware',
 ]
 
-ROOT_URLCONF = "demo_app.urls"
+ROOT_URLCONF = "urls"
 
 TEMPLATES = [
     {
